@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GhostMonsterGames
+- 👋 Hi, I’m @Ghost
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Godot and game design
 - 💞️ I’m looking to collaborate on game design
